@@ -1,4 +1,4 @@
-# Bank-of-America-Customer-Complaint-Analysis-2017-2023
+# Bank of America Customer Complaint Analysis (2017-2023)
 
 ## Overview
 This project analyzes customer complaints submitted to Bank of America (BoA) between 2017 and 2023. Using Power BI, the analysis provides insights into complaint trends, response efficiency, and customer locations to help BoA improve its customer service strategies. Additional data preparation and analysis were conducted in Excel.
