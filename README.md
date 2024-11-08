@@ -112,7 +112,7 @@ This classification supports analysis of BoA's response efficiency, highlighting
    git clone https://github.com/godwinogele/BoA-Customer-Complaint-Analysis.git
    ```
    
-2. **Data and Power BI File**: The dataset (`complaints_data.xlsx`) and Power BI file (`BoA_Complaint_Dashboard.pbix`) are included in the repository.
+2. **Data and Power BI File**: The dataset (`Consumer_Complaints.xlsx`) and Power BI file (`BoA_Complaint_Dashboard.pbix`) are included in the repository.
 
 3. **Explore the Dashboard**: Open the Power BI file to interact with the dashboard and analyze trends, response times, and geographic distributions.
 
