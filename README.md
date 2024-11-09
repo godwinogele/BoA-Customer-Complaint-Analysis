@@ -126,9 +126,5 @@ This classification supports analysis of BoA's response efficiency, highlighting
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
 
 Contributions are welcome! Feel free to open pull requests or submit issues to enhance this project.
